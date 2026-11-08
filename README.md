@@ -50,12 +50,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnysingha911&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><i>Currently exploring: distributed systems design, event-driven architecture & AI agents.</i></p>
